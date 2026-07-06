@@ -1,0 +1,8 @@
+kafka-python
+pandas
+fastapi
+uvicorn
+streamlit
+xgboost
+scikit-learn
+joblib
